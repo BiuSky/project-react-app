@@ -1,0 +1,11 @@
+footer {
+  background-color: #307fc9;
+  padding: 100px 0;
+  color: #fff;
+}
+footer .img span {
+  margin-top: 5px;
+}
+footer h2 {
+  margin-bottom: 20px;
+}
